@@ -7,7 +7,7 @@
 <p>Hi my name's Beatriz and I'm studying to become a Dev. 
 Although I started my Graphic Designer's degree, I've only coursed 3 of 4 semesters and decided to stop due to the amount of AI that has been replacing actual designers like me. Currently I'm finishing my Database Bachelor's degree to pursue an IT career;</p>
 
-:small_orange_diamond: **`Currently Learning: Bash and SQL`**
+:small_orange_diamond: **`Currently Learning: Bash and SQL (mySQL and PostgreSQL)`**
 
 
 ##  My Arsenal
