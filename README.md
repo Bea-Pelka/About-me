@@ -4,10 +4,10 @@
 
 
 
-<p>Hi my name's Beatriz and I'm studying to become a Dev. 
-Although I started my Graphic Designer's degree (3 of 4 semesters coursed), I discovered that coding is way cooler. Currently I'm finishing my Database Associate's degree to pursue an IT career;</p>
+<p>Welcome to my Profile, 
+I'm Beatriz, an Enthusiast for Database and Programming. </p>
 
-:small_orange_diamond: **`Currently Learning: Bash and SQL (mySQL and PostgreSQL)`**
+:small_orange_diamond: **`Currently Learning: Bash and SQL`**
 
 
 ##  My Arsenal
