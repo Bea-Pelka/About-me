@@ -1,4 +1,4 @@
-# 🗺 Hello, World! 
+# 🗺 Hello, World
 
 <p>Welcome to my Profile, 
 I'm Beatriz, an Enthusiast for Database and Programming. </p>
